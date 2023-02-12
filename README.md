@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shadad350
-- 👀 I’m interested in Fullstack 
-- 🌱 I’m currently learning Frontend
+- 👀 I’m interested in linux 
+- 🌱 I’m currently learning bash script
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
